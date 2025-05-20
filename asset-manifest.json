@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.ae92ef44.css",
+    "main.js": "/my-portfolio/static/js/main.577a7a06.js",
+    "static/media/helmet-store.png": "/my-portfolio/static/media/helmet-store.91c3c6b03e7978f60d80.png",
+    "static/media/project4.png": "/my-portfolio/static/media/project4.91c3c6b03e7978f60d80.png",
+    "static/media/project5.png": "/my-portfolio/static/media/project5.91c3c6b03e7978f60d80.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.cdf5cb5b165c86b168ea.png",
+    "static/media/mf-avatar.png": "/my-portfolio/static/media/mf-avatar.810f57d161539ef6a786.png",
+    "static/media/loan-prediction.png": "/my-portfolio/static/media/loan-prediction.72c67e17b526f03e94b1.png",
+    "static/media/riskprediction.png": "/my-portfolio/static/media/riskprediction.665ebfc801d35a8e312a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.ae92ef44.css.map": "/my-portfolio/static/css/main.ae92ef44.css.map",
+    "main.577a7a06.js.map": "/my-portfolio/static/js/main.577a7a06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae92ef44.css",
+    "static/js/main.577a7a06.js"
+  ]
+}
